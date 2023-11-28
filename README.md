@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TeenagedLime3
 - 👀 I’m interested in Gaming and coding
-- 🌱 I’m currently learning Java, Javascript and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me teenagedlime3@gmail.com (please dont spam) or dm on discord: TeenagedLime3#4529
+- 🌱 I’m currently learning Python, and learning Java.
+- 😊 I hope to make Minecraft mods in the future when I'm not working on uni projects
+- 📫 How to reach me teenagedlime3@gmail.com (please dont spam) or dm on discord: teenagedlime3
 
 <!---
 TeenagedLime3/TeenagedLime3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
