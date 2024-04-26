@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeenagedLime3
 - 👀 I’m interested in Gaming and coding
-- 🌱 I’m currently learning Python, and learning Java.
+- 🌱 I’m currently learning Java, C++ and Python
 - 😊 I hope to make Minecraft mods in the future when I'm not working on uni projects
 - 📫 How to reach me: teenagedlime3@gmail.com (please dont spam)
 
